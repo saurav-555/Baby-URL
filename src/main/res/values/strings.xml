@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Baby URL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout_text">Logout</string>
+    <string name="clear_all_text">Clear All</string>
+    <string name="feedback_text">Feedback</string>
+    <string name="submit_text">SUBMIT FEEDBACK</string>
+    <string name="add_baby_url_button_text">add_baby_url_button</string>
+    <string name="paste_your_url_here_text">Paste Your URL Here</string>
+    <string name="generate_text">Generate</string>
+    <string name="refresh_text">Refresh</string>
+
+</resources>

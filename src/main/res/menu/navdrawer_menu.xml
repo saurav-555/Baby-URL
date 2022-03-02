@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clearAllOption"
+        android:title="@string/clear_all_text"
+        android:icon="@drawable/clear_all_icon"/>
+    <item
+        android:id="@+id/feedbackFragment"
+        android:title="@string/feedback_text"
+        android:icon="@drawable/feedback_icon"/>
+    <item
+        android:id="@+id/logoutOption"
+        android:title="@string/logout_text"
+        android:icon="@drawable/logout_icon"/>
+
+</menu>
